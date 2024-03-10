@@ -17,7 +17,7 @@ setup(
     author='Ahmet DAL',
     author_email='ceahmetdal@gmail.com',
     packages=find_packages(),
-    url='https://github.com/javrasya/django-river.git',
+    url='https://github.com/mohamedAbdElhameed/django-river.git',
     description='Django Workflow Library',
     long_description=long_description,
     install_requires=[

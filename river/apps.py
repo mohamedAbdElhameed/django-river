@@ -11,6 +11,7 @@ LOGGER = logging.getLogger(__name__)
 class RiverApp(AppConfig):
     name = 'river'
     label = 'river'
+    default_auto_field = 'django.db.models.BigAutoField'
 
     def ready(self):
 
